@@ -4,10 +4,11 @@ This tool is a generic parser to convert the PDFs downloaded from the E-Trade we
 This is primarily a tool to help you do your taxes! 
 
 Supported PDFs are:
-	- Trade Confirmations
-		- **Accounts** > **Documents** > **Documents & Statements** > **Trade Confirmations**
-	- RSU and ESPP Confirmations
-		- **Stock Plan** > **My Account** > **Stock Plan Confirmations**
+
+* Trade Confirmations
+	* **Accounts** > **Documents** > **Documents & Statements** > **Trade Confirmations**
+* RSU and ESPP Confirmations
+	* **Stock Plan** > **My Account** > **Stock Plan Confirmations**
 
 ## Getting Started
 
